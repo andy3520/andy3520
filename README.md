@@ -1,10 +1,11 @@
 ### Hi there 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andy3520" alt="andy3520" /> </p>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=andy3520&show_icons=true)](https://github.com/andy3520/andy3520) 
-
 - 🔭 I’m currently working on VueJS.
 - 🌱 I’m currently learning Typescript and Vue3.
 - 📫 How to reach me: [Twitter](https://twitter.com/annguyenhieuduc)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=andy3520&show_icons=true)](https://github.com/andy3520/andy3520) 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andy3520" alt="andy3520" /> </p>
 
 <!--
 **andy3520/andy3520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
