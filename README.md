@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andy3520" alt="andy3520" /> </p>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=andy3520&show_icons=true)](https://github.com/andy3520/andy3520) 
 
 - 🔭 I’m currently working on VueJS.
