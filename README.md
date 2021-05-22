@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on VueJS.
-- 🌱 I’m currently learning Typescript and Vue3.
+- 🔭 I’m currently working on Spring Boot and React.
+- 🌱 I’m currently learning Solidity, NestJs.
 - 📫 How to reach me: [Twitter](https://twitter.com/annguyenhieuduc)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=andy3520&show_icons=true)](https://github.com/andy3520/andy3520) 
