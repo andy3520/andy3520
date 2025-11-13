@@ -9,6 +9,16 @@
   Currently designing how <b>AI agents can think together</b> — like a digital brain.
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Followers-available-blue?logo=github" />
+  <img src="https://img.shields.io/badge/Stars-give%20me%20one%20💫-yellow?logo=github" />
+  <img src="https://img.shields.io/badge/Profile_Views-active-green" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=andy3520&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://img.shields.io/github/stars/andy3520?affiliations=OWNER%2CCOLLABORATOR&style=social" />
+</p>
+
 ---
 
 ## ⚡ About Me
@@ -95,10 +105,12 @@ https://github.com/andy3520/ANHD-NeuroFabric-Cognitive-Framework
 If you're into AI, system design, or building strange but interesting things — let’s talk.
 
 ---
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Followers-available-blue?logo=github" />
+  <img src="https://img.shields.io/badge/Stars-give%20me%20one%20💫-yellow?logo=github" />
+  <img src="https://img.shields.io/badge/Profile_Views-active-green" />
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=andy3520&label=Profile%20Views&color=blue&style=flat" />
-  <img src="https://img.shields.io/github/followers/andy3520?label=Followers&style=social" />
   <img src="https://img.shields.io/github/stars/andy3520?affiliations=OWNER%2CCOLLABORATOR&style=social" />
 </p>
-
