@@ -17,6 +17,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=andy3520&label=Profile%20Views&color=blue&style=flat" />
   <img src="https://img.shields.io/github/stars/andy3520?affiliations=OWNER%2CCOLLABORATOR&style=social" />
+  <a href="https://www.linkedin.com/in/andynguyen-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Andy%20Nguyen-blue?logo=linkedin&style=for-the-badge" />
+  </a>
 </p>
 
 ---
@@ -100,7 +103,13 @@ https://github.com/andy3520/ANHD-NeuroFabric-Cognitive-Framework
 ---
 
 ## 📫 Contact
+#### Email
 📧 **nguyenhieuducan@gmail.com**
+#### Linkedin
+<a href="https://www.linkedin.com/in/andynguyen-dev/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Andy%20Nguyen-blue?logo=linkedin&style=for-the-badge" />
+</a>
+
 
 If you're into AI, system design, or building strange but interesting things — let’s talk.
 
